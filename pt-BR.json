@@ -1,0 +1,49 @@
+{
+  "app_config": {
+    "locale": "en-EUA",
+    "theme": "escuro"
+  },
+  "ui_elements": {
+    "buttons": {
+      "save": "Salvar alterações",
+      "cancel": "Cancelar",
+      "delete": "Excluir registro",
+      "next": "Próximo passo",
+      "back": "Voltar",
+      "submit": "Enviar formulário",
+      "retry": "Tente novamente"
+    },
+    "placeholders": {
+      "search": "Pesquisar por nome ou código...",
+      "email": "exemplo@dominio.com",
+      "password": "Mínimo de 8 caracteres"
+    }
+  },
+  "feedback_messages": {
+    "success": {
+      "data_saved": "Os dados foram salvos com sucesso!",
+      "login_authorized": "Acesso concedido. Bem-vindo de volta!"
+    },
+    "errors": {
+      "network_failure": "Falha na conexão com o servidor.",
+      "invalid_email": "O endereço de e-mail fornecido é inválido.",
+      "required_field": "Este campo é obrigatório.",
+      "unauthorized": "Você não tem permissão para isso.",
+      "timeout": "Sessão expirada. Por favor, faça login novamente.",
+      "file_too_large": "O arquivo excede o limite de 5 MB."
+    },
+    "warnings": {
+      "unsaved_changes": "Você tem alterações não salvas.",
+      "low_disk_space": "O espaço de armazenamento está quase cheio."
+    }
+  },
+  "tooltips": {
+    "help_id": "O ID é único e gerado automaticamente.",
+    "privacy_policy": "Leia como lidamos com seus dados."
+  },
+  "modals": {
+    "confirm_title": "Tem certeza?",
+    "confirm_body": "Esta ação não pode ser desfeita.",
+    "exit_app": "Tem mesmo vontade de sair?"
+  }
+}

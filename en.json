@@ -1,0 +1,50 @@
+
+{
+  "app_config": {
+    "locale": "en-US",
+    "theme": "dark"
+  },
+  "ui_elements": {
+    "buttons": {
+      "save": "Save Changes",
+      "cancel": "Cancel",
+      "delete": "Delete Record",
+      "next": "Next Step",
+      "back": "Back",
+      "submit": "Submit Form",
+      "retry": "Try Again"
+    },
+    "placeholders": {
+      "search": "Search by name or code...",
+      "email": "example@domain.com",
+      "password": "Minimum 8 characters"
+    }
+  },
+  "feedback_messages": {
+    "success": {
+      "data_saved": "Data has been saved successfully!",
+      "login_authorized": "Access granted. Welcome back!"
+    },
+    "errors": {
+      "network_failure": "Server connection failed.",
+      "invalid_email": "The email provided is invalid.",
+      "required_field": "This field is required.",
+      "unauthorized": "You do not have permission for this.",
+      "timeout": "Session expired. Please log in again.",
+      "file_too_large": "File exceeds the 5MB limit."
+    },
+    "warnings": {
+      "unsaved_changes": "You have unsaved changes.",
+      "low_disk_space": "Storage space is almost full."
+    }
+  },
+  "tooltips": {
+    "help_id": "The ID is unique and auto-generated.",
+    "privacy_policy": "Read how we handle your data."
+  },
+  "modals": {
+    "confirm_title": "Are you sure?",
+    "confirm_body": "This action cannot be undone.",
+    "exit_app": "Do you really want to sign out?"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "app_config": {
+    "locale": "en-US",
+    "theme": "oscuro"
+  },
+  "ui_elements": {
+    "buttons": {
+      "save": "Guardar cambios",
+      "cancel": "Cancelar",
+      "delete": "Eliminar registro",
+      "next": "Próximo paso",
+      "back": "Atrás",
+      "submit": "Enviar formulario",
+      "retry": "Intentar otra vez"
+    },
+    "placeholders": {
+      "search": "Buscar por nombre o código...",
+      "email": "ejemplo@dominio.com",
+      "password": "Mínimo 8 caracteres"
+    }
+  },
+  "feedback_messages": {
+    "success": {
+      "data_saved": "¡Los datos se han guardado correctamente!",
+      "login_authorized": "Acceso concedido. ¡Bienvenido de nuevo!"
+    },
+    "errors": {
+      "network_failure": "La conexión al servidor falló.",
+      "invalid_email": "El correo electrónico proporcionado no es válido.",
+      "required_field": "Este campo es obligatorio.",
+      "unauthorized": "No tienes permiso para esto.",
+      "timeout": "La sesión ha expirado. Por favor, vuelve a iniciar sesión.",
+      "file_too_large": "El archivo excede el límite de 5 MB."
+    },
+    "warnings": {
+      "unsaved_changes": "Tienes cambios sin guardar.",
+      "low_disk_space": "El espacio de almacenamiento está casi lleno."
+    }
+  },
+  "tooltips": {
+    "help_id": "El ID es único y se genera automáticamente.",
+    "privacy_policy": "Lea cómo manejamos sus datos."
+  },
+  "modals": {
+    "confirm_title": "¿Está seguro?",
+    "confirm_body": "Esta acción no se puede deshacer.",
+    "exit_app": "¿Realmente quieres cerrar sesión?"
+  }
+}
