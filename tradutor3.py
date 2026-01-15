@@ -11,7 +11,7 @@ from typing import Dict, List, Any, Tuple
 # CONFIGURAÇÃO GOOGLE TRANSLATE API (HTTP)
 # =========================================================
 
-API_KEY = "AIzaSyCc36fCwLeH4ddwE_GCL2-6-bglLX19R2U"
+API_KEY = "COLE SUA CHAVE AQUI"
 
 GOOGLE_TRANSLATE_URL = "https://translation.googleapis.com/language/translate/v2"
 
